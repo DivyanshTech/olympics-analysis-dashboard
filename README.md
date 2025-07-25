@@ -36,25 +36,24 @@ This is a simple data analysis dashboard built using Streamlit. The idea is to l
 
 ### Demo Screenshots
 Below are key views from the interactive Streamlit dashboard.
-
-### 🎯 Overall Analysis
+### 🎯 Overall Analysis  
+### 🎯 Overall Analysis  
 ![Overall Analysis](ASSETS/overall_analysis.png)
 
 ---
 
-### 🥇 Medal Tally View
-![Medal Tally](ASSETS/medal_tally.png)
+### 🥇 Medal Tally View  
+![Medal Tally](ASSETS/medal_tally_view.png)
 
 ---
 
-### 👤 Athlete-wise Analysis
+### 👤 Athlete-wise Analysis  
 ![Athlete-wise Analysis](ASSETS/athlete_wise_analysis.png)
 
 ---
 
-### 🏅 Top 10 Athletes
-![Top 10 Athletes](ASSETS/top_10_athletes.png)
-
+### 🏅 Top 10 Athletes  
+![Top 10 Athletes](ASSETS/top_10_athletes.png) 
 
 ## To Run This App
 
@@ -69,4 +68,3 @@ streamlit run app.py
 AUthor
 Built by Divyansh as part of his hands-on learning in data analysis and dashboarding.  
 Inspired by CampusX’s structure but extended, cleaned, and packaged independently as a professional portfolio project.
-
