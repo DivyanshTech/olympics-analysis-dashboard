@@ -1,0 +1,24 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment folders
+venv/
+ENV/
+env/
+
+# Streamlit secrets (if any in future)
+.secrets.toml
+
+# Environment variable files
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Jupyter files (optional)
+.ipynb_checkpoints/
